@@ -25,7 +25,7 @@ public class JavaTransformation {
 
     }
 
-    public <R> R transform(Function<? super String, ? extends R> function){
+    public <R> Object transform(Function<JavaTransformation, Object> function){
         return function.apply(this);
     }
 }
