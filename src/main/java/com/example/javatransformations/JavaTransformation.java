@@ -10,7 +10,7 @@ import java.util.function.Function;
 
 @Data
 @NoArgsConstructor
-@AllArgsConstructor
+//@AllArgsConstructor
 public class JavaTransformation {
 
     public static void main(String[] args) {
