@@ -11,6 +11,7 @@ public class JavaTransformation {
 
     public static void main(String[] args) {
         //Feature commit 1
+        //Feature commit 2
         //Master commit 1
         //Master commit 111
     }
